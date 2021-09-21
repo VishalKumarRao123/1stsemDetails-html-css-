@@ -1,0 +1,74 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: skyblue;
+}
+
+.csuggest {
+    border: 5px solid red;
+    box-sizing: border-box;
+    box-sizing: inherit;
+    background-color: seagreen;
+}
+
+.websuggest {
+    border: 5px solid rgb(48, 1, 1);
+    box-sizing: border-box;
+    box-sizing: inherit;
+    background-color: rgb(1, 44, 19);
+}
+
+.websuggest {
+    border: 5px solid rgb(129, 238, 5);
+    box-sizing: border-box;
+    box-sizing: inherit;
+    background-color: #fff;
+}
+
+.datastructuresuggest {
+    border: 5px solid rgba(15, 0, 231, 0.562);
+    box-sizing: border-box;
+    box-sizing: inherit;
+    background-color: rgb(238, 82, 82);
+}
+
+.mathsuggest {
+    border: 5px solid rgb(221, 2, 112);
+    box-sizing: border-box;
+    box-sizing: inherit;
+    background-color: seagreen;
+}
+
+.ossuggest {
+    border: 5px solid rgb(155, 0, 0);
+    box-sizing: border-box;
+    box-sizing: inherit;
+    background-color: rgb(78, 46, 129);
+}
+
+.coasuggest {
+    border: 5px solid rgb(66, 50, 50);
+    box-sizing: border-box;
+    box-sizing: inherit;
+    background-color: rgb(157, 157, 190);
+}
+
+.humsuggest {
+    border: 5px solid rgb(99, 4, 4);
+    box-sizing: border-box;
+    box-sizing: inherit;
+    background-color: rgb(68, 231, 139);
+}
+
+div h1 {
+    text-align: center;
+}
+
+#knowledge {
+    color: rgb(203, 207, 223))
+}
+
+#expectation {
+    color: rgb(63, 1, 8);
+    margin-bottom: 20px;
+}
